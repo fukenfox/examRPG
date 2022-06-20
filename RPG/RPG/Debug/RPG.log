@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Visual Studio\RPG\RPG\main.cpp(33,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\RPG\RPG\main.cpp(34,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\RPG\RPG\main.cpp(36,12): warning C4552: "*": результат выражения не используется
+D:\Visual Studio\RPG\RPG\main.cpp(37,16): warning C4552: "*": результат выражения не используется
+D:\Visual Studio\RPG\RPG\main.cpp(42,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Visual Studio\RPG\RPG\main.cpp(190,11): warning C4552: "-": результат выражения не используется
+D:\Visual Studio\RPG\RPG\main.cpp(47,6): warning C4101: timestart: неиспользованная локальная переменная
+D:\Visual Studio\RPG\RPG\main.cpp(47,17): warning C4101: timeend: неиспользованная локальная переменная
+  RPG.vcxproj -> D:\Visual Studio\RPG\Debug\RPG.exe
